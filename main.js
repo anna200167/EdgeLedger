@@ -8,3 +8,15 @@ function initMap() {
     zoom: 8,
   });
 }
+// document.querySelector('#showcase').scrollIntoView({ 
+//   behavior: 'smooth' 
+// });
+// document.querySelector('#what').scrollIntoView({ 
+//   behavior: 'smooth' 
+// });
+// document.querySelector('#who').scrollIntoView({ 
+//   behavior: 'smooth' 
+// });
+// document.querySelector('#contact').scrollIntoView({ 
+//   behavior: 'smooth' 
+// });
